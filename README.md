@@ -30,7 +30,7 @@ cd Pipeline_Project
 
 3. Run the Script
 
-python track2_genome_assemble
+python track2_genome_assemble.py
 
 
 
