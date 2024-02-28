@@ -22,13 +22,13 @@ Human herpesvirus 5 is also known as Human cytomegalovirus and is typically abbr
 # Getting Started 
 1. Use the following command to clone this repository to your local device
 
-$git clone 
+git clone https://github.com/Mpatel41/Pipeline_Project.git
 
 2. If not already, make sure you are in the Pipeline_Project directory (you can check this by using the command line tool pwd). If not in the directory -
 
-$ cd Pipeline_Project 
+cd Pipeline_Project 
 
-3. 
+
 
 
  
