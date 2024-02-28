@@ -10,8 +10,8 @@ import re
 import shutil
 
 #Getting ourselves situated in the working directory 
-repository_cloned = 'Pipeline_Project'
-os.chdir('Pipeline_Project/')
+#repository_cloned = 'Pipeline_Project'
+#os.chdir('Pipeline_Project/')
 
 #Create a Working Directory that with contain all the output files 
 os.mkdir('Pipeline_Project_Mansi_Patel')
