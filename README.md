@@ -28,6 +28,10 @@ git clone https://github.com/Mpatel41/Pipeline_Project.git
 
 cd Pipeline_Project 
 
+3. Run the Script
+
+python track2_genome_assemble
+
 
 
 
