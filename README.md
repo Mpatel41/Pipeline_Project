@@ -124,5 +124,5 @@ cd Pipeline_Project_Mansi_Patel
 Then open the PipelineProject.log file which contains results as indicated above
 
 ```python
-cat PipelineProject.log
+less -S PipelineProject.log
 ```
