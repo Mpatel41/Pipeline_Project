@@ -7,6 +7,7 @@ Human herpesvirus 5 is also known as Human cytomegalovirus and is typically abbr
 # Software 
  - [SRA ToolKit](https://github.com/ncbi/sra-tools)
 	- Fastq-Dump
+ - [NCBI Datasets](https://github.com/ncbi/datasets)
  - [Bowtie-2](https://github.com/BenLangmead/bowtie2)
  - [SPAdes](https://github.com/ablab/spades)
  - [Command Line Blast](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
@@ -29,6 +30,8 @@ Used Python 3.10.12
 # Getting Started
 
 ## On the Command Line 
+
+** Make sure to have the software listed above installed before running the scripts
  
 1. Use the following command to clone this repository to your local device on the command line
 
