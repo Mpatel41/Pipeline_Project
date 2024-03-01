@@ -26,16 +26,19 @@ Used Python
  - pandas 
  - sys 
  - argv
-# Getting Started 
-1. Use the following command to clone this repository to your local device
+# Getting Started
 
-```bash
-$ git clone https://github.com/Mpatel41/Pipeline_Project.git 
+## On the Command Line 
+ 
+1. Use the following command to clone this repository to your local device on the command line
+
+```python
+git clone https://github.com/Mpatel41/Pipeline_Project.git 
 ```
 
 2. Make sure you are in the Pipeline_Project directory using the following command
 
-```bash
+```python
 $ cd Pipeline_Project
 ```
 
@@ -45,17 +48,23 @@ $ cd Pipeline_Project
 
 4. Option 1 : Run Script with Test Data that is provided - Run the command below
  
-`python track2_assesmbly.py test_data`
+```python
+python track2_assesmbly.py test_data
+```
 
 The test data was derived from the script subset_test.py (no need to run this script as the test data was generated and provided)
 
 5. Option 2: Run Script with Actual Data. Run the following script
 
-`nohup python transcriptome_files.py &`
+```python
+nohup python transcriptome_files.py &
+```
 
 Run nohup as this script will take ~10 minutes. After that, run the following command -
 
-`nohup python track2_assesmbly.py transcriptome_data &`
+```python
+nohup python track2_assesmbly.py transcriptome_data &
+```
 
 This script will take ~2-3 hours to run.
 
@@ -66,7 +75,9 @@ To view the PipelineProject.log output follow the instructions in the below sect
  
 Within Pipeline_Project there will be a folder Pipeline_Project_Mansi_Patel. You can navigate there using the following command -
 
-`cd Pipeline_Project_Mansi_Patel`
+```python
+cd Pipeline_Project_Mansi_Patel
+```
 
 Within this directory you will find all the necessary files such as: 
 
@@ -106,8 +117,12 @@ To view this PipelineProject.log, follow the following command -
 
 If you are in the Pipeline_Project_Mansi_Patel directory ignore this command. If you are not in this directory follow the command 
 
-``` cd Pipeline_Project_Mansi_Patel```
+```python
+cd Pipeline_Project_Mansi_Patel
+```
 
 Then open the PipelineProject.log file which contains results as indicated above
 
-``` cat PipelineProject.log```
+```python
+cat PipelineProject.log
+```
