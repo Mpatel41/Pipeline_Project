@@ -12,7 +12,7 @@ Human herpesvirus 5 is also known as Human cytomegalovirus and is typically abbr
  - [Command Line Blast](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
 
 ## Enviornment 
-Used Python 
+Used Python 3.10.12 
 
 
 # Packages 
@@ -39,7 +39,7 @@ git clone https://github.com/Mpatel41/Pipeline_Project.git
 2. Make sure you are in the Pipeline_Project directory using the following command
 
 ```python
-$ cd Pipeline_Project
+cd Pipeline_Project
 ```
 
 3. 2 Options:
