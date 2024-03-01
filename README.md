@@ -29,13 +29,14 @@ Used Python
 # Getting Started 
 1. Use the following command to clone this repository to your local device
 
-```python
-git clone https://github.com/Mpatel41/Pipeline_Project.git 
+```bash
+ git clone https://github.com/Mpatel41/Pipeline_Project.git 
 ```
 
 2. Make sure you are in the Pipeline_Project directory using the following command
 
-```cd Pipeline_Project ```
+```bash
+cd Pipeline_Project ```
 
 3. 2 Options:
 - Run the Script with Test Data (which is provided)
