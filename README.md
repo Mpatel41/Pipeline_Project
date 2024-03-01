@@ -1,5 +1,5 @@
 # Pipeline_Project
-This Pipeline is part of Comp 483 Computational Biology Assignment in Spring 2024
+This Pipeline is part of Comp 483 Computational Biology Assignment in Spring 2024. The script follows Track 2 of the assignment 
 
 # Description
 Human herpesvirus 5 is also known as Human cytomegalovirus and is typically abbreviated as HCMV. Cheng et al. 2017 (https://www.ncbi.nlm.nih.gov/pubmed/29158406) sequenced the transcriptomes of HCMV post infection. We would like to compare HCMV transcriptomes 2- and 6-days post-infection (dpi) using bioinformatics tools(Bowtie2, SPAdes, and Blast+). 
