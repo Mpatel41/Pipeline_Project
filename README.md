@@ -2,7 +2,7 @@
 This Pipeline is part of Comp 483 Computational Biology Assignment in Spring 2024
 
 # Description
-Human herpesvirus 5 is also known as Human cytomegalovirus and is typically abbreviated as HCMV. Cheng et al. 2017 (https://www.ncbi.nlm.nih.gov/pubmed/29158406) sequenced the transcriptomes of HCMV post infection. We would like to compare HCMV transcriptomes 2- and 6-days post-infection (dpi) using Bowtie2, SPAdes, and Blast+). 
+Human herpesvirus 5 is also known as Human cytomegalovirus and is typically abbreviated as HCMV. Cheng et al. 2017 (https://www.ncbi.nlm.nih.gov/pubmed/29158406) sequenced the transcriptomes of HCMV post infection. We would like to compare HCMV transcriptomes 2- and 6-days post-infection (dpi) using bioinformatics tools(Bowtie2, SPAdes, and Blast+). 
 
 # Software 
  - [SRA ToolKit](https://github.com/ncbi/sra-tools)
@@ -25,11 +25,11 @@ Human herpesvirus 5 is also known as Human cytomegalovirus and is typically abbr
 # Getting Started 
 1. Use the following command to clone this repository to your local device
 
-```git clone https://github.com/Mpatel41/Pipeline_Project.git```
+```git clone https://github.com/Mpatel41/Pipeline_Project.git
 
 2. Make sure you are in the Pipeline_Project directory using the following command
 
-`cd Pipeline_Project` 
+`cd Pipeline_Project 
 
 3. 2 Options:
 - Run the Script with Test Data (which is provided)
