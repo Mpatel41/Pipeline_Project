@@ -33,7 +33,7 @@ Used Python 3.10.12
 
 ** Make sure to have the software listed above installed before running the scripts
  
-1. Use the following command to clone this repository to your local device on the command line
+1. Use the following command on the command line to clone this repository to your local device 
 
 ```python
 git clone https://github.com/Mpatel41/Pipeline_Project.git 
