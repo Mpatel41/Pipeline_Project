@@ -29,7 +29,9 @@ Used Python
 # Getting Started 
 1. Use the following command to clone this repository to your local device
 
-```git clone https://github.com/Mpatel41/Pipeline_Project.git ```
+```python
+git clone https://github.com/Mpatel41/Pipeline_Project.git 
+```
 
 2. Make sure you are in the Pipeline_Project directory using the following command
 
